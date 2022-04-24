@@ -1,5 +1,5 @@
 # matplotlib-challenge
-#Rebecca Watson
+# Rebecca Watson 
 Being someone who loves research and science, this assignment was very helpful in helping me learn more about how data applies to my field. Sorting the data in this assignment was difficult at first. I knew what I wanted the end result to look like, but didn't realize how many steps needed to take place to get there. Through these steps, I found there was a better way to sort it than I originally had planned; randomly deleting data from a dataframe, is not the best way to go. 
 
 When looking at the summary statistics, I noticed that there are two drugs which have a significant lower mean tumor volume. These two also have the lowest standard deviation and variance which could be significant in making a statement about the drugs' effectiveness. 
